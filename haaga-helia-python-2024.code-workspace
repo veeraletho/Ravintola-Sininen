@@ -1,0 +1,163 @@
+{"folders":[
+		{
+			"name": ".tmc",
+			"path": "../../../AppData/Roaming/Code/User/globalStorage/moocfi.test-my-code/workspaces/.tmc"
+		},
+		{
+			"name": "osa01-01_hymio",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-01_hymio"
+		},
+		{
+			"name": "osa01-02_ukko_nooa",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-02_ukko_nooa"
+		},
+		{
+			"name": "osa01-03_korjaa_ohjelma_7_veljesta",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-03_korjaa_ohjelma_7_veljesta"
+		},
+		{
+			"name": "osa01-04_minuuttien_maara_vuodessa",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-04_minuuttien_maara_vuodessa"
+		},
+		{
+			"name": "osa01-05_ohjelma_tulostaa_koodia",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-05_ohjelma_tulostaa_koodia"
+		},
+		{
+			"name": "osa01-06_nimi_kahdesti",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-06_nimi_kahdesti"
+		},
+		{
+			"name": "osa01-07_nimi_ja_huutomerkit",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-07_nimi_ja_huutomerkit"
+		},
+		{
+			"name": "osa01-08_nimi_ja_osoite",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-08_nimi_ja_osoite"
+		},
+		{
+			"name": "osa01-09_korjaa_ohjelma_lausahdukset",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-09_korjaa_ohjelma_lausahdukset"
+		},
+		{
+			"name": "osa01-10_tarina",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-10_tarina"
+		},
+		{
+			"name": "osa01-10b_valilyonnilla_vai_ilman",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-10b_valilyonnilla_vai_ilman"
+		},
+		{
+			"name": "osa01-11_laskutoimitukset",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-11_laskutoimitukset"
+		},
+		{
+			"name": "osa01-12_korjaa_ohjelma_tulostukset_samalle_riville",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-12_korjaa_ohjelma_tulostukset_samalle_riville"
+		},
+		{
+			"name": "osa01-13_kerrottuna_viidella",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-13_kerrottuna_viidella"
+		},
+		{
+			"name": "osa01-14_nimi_ja_ika",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-14_nimi_ja_ika"
+		},
+		{
+			"name": "osa01-15_sekunteja_vuorokaudessa",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-15_sekunteja_vuorokaudessa"
+		},
+		{
+			"name": "osa01-16_lukujen_summa_ja_tulo",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-16_lukujen_summa_ja_tulo"
+		},
+		{
+			"name": "osa01-17_lukujen_summa_ja_keskiarvo",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-17_lukujen_summa_ja_keskiarvo"
+		},
+		{
+			"name": "osa01-18_opiskelijat_ryhmiin",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-18_opiskelijat_ryhmiin"
+		},
+		{
+			"name": "osa01-19_ruokailukustannukset",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-19_ruokailukustannukset"
+		},
+		{
+			"name": "osa01-20_korjaa_ohjelma_lukujen_tulo",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-20_korjaa_ohjelma_lukujen_tulo"
+		},
+		{
+			"name": "osa01-21_orwel",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-21_orwel"
+		},
+		{
+			"name": "osa01-22_itseisarvo",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-22_itseisarvo"
+		},
+		{
+			"name": "osa01-23_keittoa_vai_ei",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-23_keittoa_vai_ei"
+		},
+		{
+			"name": "osa01-24_luvun_suuruusluokka",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-24_luvun_suuruusluokka"
+		},
+		{
+			"name": "osa01-25_laskin",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-25_laskin"
+		},
+		{
+			"name": "osa01-26_lampotilat",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-26_lampotilat"
+		},
+		{
+			"name": "osa01-27_palkka",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-27_palkka"
+		},
+		{
+			"name": "osa01-28_korjaaa_ohjelma_korkoa_kortille",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-28_korjaaa_ohjelma_korkoa_kortille"
+		},
+		{
+			"name": "osa01-29_huomisen_vaatteet",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-29_huomisen_vaatteet"
+		},
+		{
+			"name": "osa01-30_toisen_asteen_yhtalo",
+			"path": "../../../OneDrive/Asiakirjat/VSCode/Python/haaga-helia-python-2024/osa01-30_toisen_asteen_yhtalo"
+		}
+	],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },
+        "files.watcherExclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/node_modules/*/**": true,
+            "**/.hg/store/**": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },
+        "problems.decorations.enabled": false,
+        "workbench.editor.closeOnFileDelete": true,
+        "testMyCode.downloadOldSubmission": true,
+        "testMyCode.hideMetaFiles": true,
+        "testMyCode.updateExercisesAutomatically": true,
+        "explorer.decorations.badges": true
+    }
+}
